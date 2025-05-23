@@ -22,7 +22,7 @@
 ### ✅ Task 3. `.env` 파일에 API 주소 추가
 
 ```env
-REACT_APP_API_BASE_URL=http://localhost:8000/v1
+VITE_API_BASE_URL=http://localhost:8000/v1
 ```
 
 * `.env` 값은 `config.js`로 노출
