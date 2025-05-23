@@ -132,7 +132,3 @@ primary_region = "nrt"
     handlers = ["tls", "http"]
     port = 443
 ```
-
----
-
-이 구조를 기반으로 템플릿 프로젝트를 생성하거나 자동 생성 스크립트를 만들 수도 있습니다. 원하시면 `vite`, `next.js`, `tanstack-query`, `zustand` 같은 고급 옵션도 반영 가능합니다. 필요하신 구체적인 방향이 있으면 말씀해주세요.
